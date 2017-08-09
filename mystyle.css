@@ -6,8 +6,8 @@ body {
 }
 
 .pic {
+    margin:0px auto;
     width:280px;
     height:404px;
     display:block;
-    margin: auto;
 }
