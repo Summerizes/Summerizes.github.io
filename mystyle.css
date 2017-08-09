@@ -4,3 +4,8 @@ body {
     font-family: Arial;
     color: White;
 }
+
+.pic {
+    width:400px;
+    height:400px;
+}
